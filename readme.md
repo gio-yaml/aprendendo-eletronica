@@ -71,6 +71,12 @@ Uma excelente fonte de consulta para eletrônica, com artigos, projetos, explica
 
 ---
 
+## Simulador de circuitos
+
+[Site Falstad](https://www.falstad.com/circuit/)
+
+---
+
 ## 🧪 Simuladores
 
 ### 4. Wokwi
