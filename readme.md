@@ -53,9 +53,7 @@ Uma ótima composição para projetos de eletrônica. O mais custo-benefício qu
 
 ## 🎓 Cursos e materiais
 
-### 1. Curso de componentes básicos
-
-Curso sobre os principais componentes eletrônicos e seus fundamentos.
+### 1. Vídeo de componentes básicos
 
 [▶Acessar o vídeo do manual do mundo no YouTube](https://www.youtube.com/watch?v=C54Cp819Ebc)
 
